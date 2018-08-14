@@ -1,0 +1,5 @@
+1. Open the code on any python IDE
+2. Run the program and input the value of k
+3. It will show sse and the position of centroid
+4. Each run will generate file result.txt contains the result of clustering to file Testset.txt base on Trainset.txt and value of k
+5. Delete the exist result.txt file to try with different value of k
